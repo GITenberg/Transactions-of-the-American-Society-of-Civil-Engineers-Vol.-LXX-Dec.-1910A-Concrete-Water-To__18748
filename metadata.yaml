@@ -1,0 +1,28 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXX-Dec.-1910A-Concrete-Water-To__18748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kempkey, A.
+    gutenberg_agent_id: '8222'
+    url: http://www.gutenberg.org/2009/agents/8222
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Water towers -- Design and construction'
+- !lcsh 'Civil engineering -- Periodicals'
+title: 'Transactions of the American Society of Civil Engineers, Vol. LXX, Dec. 1910
+
+  A Concrete Water Tower, Paper No. 1173'
+url: http://www.gutenberg.org/ebooks/18748
